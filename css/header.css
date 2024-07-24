@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Manrope', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+.header {
+	border-bottom: solid 1px #E5E9F2;
+	height: 73px;
+	align-items: center;
+	display: flex;
+}
+.header-container {
+	width: 1110px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+}
+
+img {
+	display: block;
+}
+.nav {
+	margin-left: 38px;
+	margin-top: -2px;
+}
+.nav-link {
+	color: #18191F;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 20px;
+	text-decoration: none;
+	margin-right: 32px;
+}
+.nav-link:hover {
+	color: #8C30F5;
+}
+.nav-link:last-child {
+	margin-right: 0;
+}
+.appstore {
+	margin-left: auto;
+	display: flex;
+}
+.appstore a:first-child {
+	margin-right: 12px;
+}

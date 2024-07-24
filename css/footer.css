@@ -1,0 +1,25 @@
+.footer {
+	background: #0B0D17;
+	height: 72px;
+	display: flex;
+	align-items: center;
+}
+.footer-container {
+	width: 1110px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+}
+.footer-paragraph {
+	color: #D9DBE1;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+}
+.footer-social {
+	display: flex;
+	margin-left: auto;
+}
+.footer-social a {
+	margin-right: 16px;
+}

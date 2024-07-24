@@ -1,0 +1,34 @@
+
+.main-container {
+	width: 1110px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	padding-top: 150px;
+	padding-bottom: 150px;
+
+}
+
+.main-heading {
+	font-weight: 800;
+	font-size: 72px;
+	line-height: 98px;
+	color: #18191F;
+	margin: 0;
+}
+.main-paragraph {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 32px;
+	color: #18191F;
+}
+.main-button {
+	background: #8C30F5;
+	border-radius: 8px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	color: #FFFFFF;
+	padding: 16px 35px;
+	border: none;
+}
